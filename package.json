@@ -1,0 +1,29 @@
+{
+  "name": "gulp-starter-kit",
+  "version": "1.0.0",
+  "description": "A modern, fast, and flexible Gulp starter kit for building scalable frontend projects with an optimized workflow.",
+  "keywords": [
+    "gulp",
+    "automation",
+    "workflow",
+    "frontend"
+  ],
+  "homepage": "https://github.com/ahmedkhattaba/gulp-starter-kit#readme",
+  "bugs": {
+    "url": "https://github.com/ahmedkhattaba/gulp-starter-kit/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedkhattaba/gulp-starter-kit.git"
+  },
+  "license": "MIT",
+  "author": "Cairoon <cairoon.dev@gmail.com>",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1"
+  }
+}
